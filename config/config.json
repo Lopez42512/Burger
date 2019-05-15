@@ -1,0 +1,27 @@
+{
+    "development": {
+        "username": "mamp",
+        "password": "root",
+        "database": "burgers_db",
+        "host": "localhost",
+        "port": 8889,
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "mamp",
+        "password": "root",
+        "database": "burgers_db",
+        "host": "127.0.0.1",
+        "port": 8889,
+        "dialect": "mysql"
+    },
+    "production": {
+        "use_env_variable": "JAWSDB_URL",
+        "username": "dikupv4md5xlwl5q",
+        "password": "nvlvnmvkdo7br7cz",
+        "database": "n9nkkyz6kvs12l04",
+        "host": "gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "port": 3306,
+        "dialect": "mysql"
+    }
+}
